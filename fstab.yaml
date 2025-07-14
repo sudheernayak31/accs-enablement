@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/sudheernayak31/accs-enablement/
+    type: markup
+
+folders:
+  /products/: /products/default
